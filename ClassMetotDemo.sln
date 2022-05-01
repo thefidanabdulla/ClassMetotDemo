@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{9122954B-A90F-40E7-8346-E6B25E4CCF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9122954B-A90F-40E7-8346-E6B25E4CCF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9122954B-A90F-40E7-8346-E6B25E4CCF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9122954B-A90F-40E7-8346-E6B25E4CCF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9122954B-A90F-40E7-8346-E6B25E4CCF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD4B00F-1B49-4164-BA28-43B78CCCE795}
+	EndGlobalSection
+EndGlobal
